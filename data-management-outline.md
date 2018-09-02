@@ -1,4 +1,13 @@
-# App-Page_view  
+# Example of an enterprise level UI data management architecture
+- The Views know about ViewModels
+- ViewModels know about ModelResources
+- ModelResources know about
+  - Service integrations
+  - DTO models (the ones that are relevant to the models they own)
+  - Models (the client side representation that DTOs get turned into...maybe decorated a bit with display string specific formatters/helpers)
+  
+
+## App-Page_view  
   
 View for an app that allows users to see information about their coding team, the team’s apps, servers, and the current user’s own apps and servers  
   

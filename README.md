@@ -4,7 +4,12 @@
 ### Things for Alex to take on
 - [ ] look into https://auth0.com/docs/quickstart/spa
 
-Things to consider 
+### Things to consider 
+- code breakout....we want a monorepo-ish code architecture
+    - lerna
+    - mgit
+    - ...
+    - _see 
 - we need Auth to include the following Roles
     - User (general)
     - Account Manager

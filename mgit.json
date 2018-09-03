@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+        "changeup-react-web-app" : "https://github.com/4thMind-OS/changeup-react-web-app.git",
+        "changeup-react-native-app" : "https://github.com/4thMind-OS/changeup-react-native-app.git" 
+    }
+}

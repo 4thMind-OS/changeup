@@ -22,3 +22,6 @@
     - A web app for 
         - Account owners (people who manage tasks for one or more Users) to enter and organize/manage a Users challenges/tasks over time.
         - More detailed table and chart views
+## Branching
+ - All work must be done in branches and must be submitted with a PR
+ - Branch naming convention: {your_name}/{ticket_number}-descriptive_name

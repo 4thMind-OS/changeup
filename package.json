@@ -1,0 +1,24 @@
+{
+  "name": "changeup",
+  "version": "1.0.0",
+  "description": "...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:server": "lerna run start --scope=changeup-server --stream",
+    "start:webapp": "lerna run start --scope=changeup-react-web-app --stream"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4thMind-OS/changeup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4thMind-OS/changeup/issues"
+  },
+  "homepage": "https://github.com/4thMind-OS/changeup#readme",
+  "devDependencies": {
+    "lerna": "^3.4.0"
+  }
+}
